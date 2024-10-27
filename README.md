@@ -6,6 +6,8 @@
 
 - 💬 Ask me about **Data**
 
+-  Currently Working on **Share Market Data Analysis Using Machine Learning**
+
 - 📫 How to reach me **sanskar007sahu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
